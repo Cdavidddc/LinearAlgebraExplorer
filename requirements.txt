@@ -1,0 +1,7 @@
+torch
+transformers
+datasets
+gradio
+matplotlib
+numpy
+scikit-image
